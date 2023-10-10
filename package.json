@@ -1,5 +1,5 @@
 {
-  "name": "what-to-watch",
+  "name": "neftlix",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack --mode production",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ewudes/ha-whatToWatch.git"
+    "url": "git+https://github.com/ewudes/neftlix.git"
   },
   "bugs": {
-    "url": "https://github.com/ewudes/ha-whatToWatch/issues"
+    "url": "https://github.com/ewudes/neftlix/issues"
   },
-  "homepage": "https://github.com/ewudes/ha-whatToWatch#readme",
+  "homepage": "https://github.com/ewudes/neftlix#readme",
   "dependencies": {
     "axios": "0.21.2",
     "history": "4.10.1",
