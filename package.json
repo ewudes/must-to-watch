@@ -1,5 +1,5 @@
 {
-  "name": "neftlix",
+  "name": "must-to-watch",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack --mode production",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ewudes/neftlix.git"
+    "url": "git+https://github.com/ewudes/must-to-watch.git"
   },
   "bugs": {
-    "url": "https://github.com/ewudes/neftlix/issues"
+    "url": "https://github.com/ewudes/must-to-watch/issues"
   },
-  "homepage": "https://github.com/ewudes/neftlix#readme",
+  "homepage": "https://github.com/ewudes/must-to-watch#readme",
   "dependencies": {
     "axios": "0.21.2",
     "history": "4.10.1",
