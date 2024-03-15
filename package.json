@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/ewudes/must-to-watch#readme",
   "dependencies": {
-    "axios": "0.21.2",
+    "axios": "0.28.0",
     "history": "4.10.1",
     "prop-types": "15.7.2",
     "react": "16.14.0",
